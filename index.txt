@@ -1,3 +1,6 @@
 Name: Dhruv
 Course: BTech
 Goal: Developer banna
+
+Skills: Flutter, Git, C++
+Hobby: Coding
